@@ -1,6 +1,0 @@
-plugins {
-    id 'net.neoforged.moddev'
-}
-
-apply from: "$rootDir/gradle/common.gradle"
-apply from: "$rootDir/gradle/neoforge.gradle"
